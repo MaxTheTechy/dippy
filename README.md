@@ -95,3 +95,17 @@ Cost sketch: at ~$0.15/GB, scanning 1 TB of uploads in a month is roughly $150 i
 - [ ] Sender authentication — is the one-time link sufficient, or is an identity check needed before a link is issued?
 - [ ] Retention periods for quarantined (clean and malicious) files.
 - [ ] Any accreditation or assurance constraints that limit which Azure components are permitted.
+
+## Acronyms
+
+| Acronym | Meaning |
+| --- | --- |
+| API | Application Programming Interface |
+| AV | Antivirus |
+| CDR | Content Disarm and Reconstruction |
+| DB | Database |
+| GB | Gigabyte |
+| ID | Identifier |
+| RBAC | Role-Based Access Control |
+| SAS | Shared Access Signature |
+| TB | Terabyte |
